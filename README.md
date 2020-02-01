@@ -1,0 +1,2 @@
+# hatena
+yamamoto_blog
