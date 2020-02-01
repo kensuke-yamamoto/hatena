@@ -5,7 +5,14 @@
 /* <system section="background" selected="fff"> */
 body{background:#fff;}
 /* </system> */
+.wf-nicomoji { font-family: "Nico Moji"; }
+.wf-sawarabimincho { font-family: "Sawarabi Mincho"; }
 
+p{
+
+  margin: 70px auto;
+    width:700px;
+    background: gray}
 /* 吹き出しのCSS　*/
 .entry-content .l-fuki,
 .entry-content .r-fuki {
