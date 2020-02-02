@@ -5,14 +5,7 @@
 /* <system section="background" selected="fff"> */
 body{background:#fff;}
 /* </system> */
-.wf-nicomoji { font-family: "Nico Moji"; }
-.wf-sawarabimincho { font-family: "Sawarabi Mincho"; }
 
-p{
-
-  margin: 70px auto;
-    width:700px;
-    background: gray}
 /* 吹き出しのCSS　*/
 .entry-content .l-fuki,
 .entry-content .r-fuki {
@@ -105,8 +98,3 @@ right: -84px;
 left: -84px;
 }
 }
-
-/*吹き出し作成*/
-.piyohiko::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/y/yama3394145/20200129/20200129215945_120.jpg);}
-
-.bea::after {background-image:url(https://cdn-ak.f.st-hatena.com/images/fotolife/y/yama3394145/20200129/20200129215936_120.jpg);}
